@@ -12,3 +12,4 @@ Notes and usage details for learn-javascript.
 - clarify the setup steps
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
